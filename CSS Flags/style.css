@@ -1,0 +1,298 @@
+.frenchflagr { 
+  height: 105px;
+  width: 50px;
+  background-color: red;
+  position: absolute;
+  left: 200px;
+  top: 15px;
+}
+.frenchflagw { 
+  height: 99px;
+  width: 50px;
+  border-style: solid;
+  border-color: black;
+  background-color:white;
+  position: absolute;
+  left: 150px;
+  top: 15px;
+}
+.frenchflagb { 
+  height: 105px;
+  width: 50px;
+  background-color:blue;
+  position: absolute;
+  left: 100px;
+  top: 15px;
+}
+.germanflagb {
+  height: 35px;
+  width: 150px;
+  background-color: black;
+  position: absolute;
+  left: 100px;
+  top: 125px;
+}
+.germanflagr {
+  height: 35px;
+  width: 150px;
+  background-color: red;
+  position: absolute;
+  left: 100px;
+  top: 160px;
+
+}
+.germanflagy {
+  height: 35px;
+  width: 150px;
+  background-color: yellow;
+  position: absolute;
+  left: 100px;
+  top: 195px;
+
+}
+.madagascarflagr {
+  height: 50px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left: 150px;
+  top: 240px;
+}
+
+.madagascarflagw { 
+  height: 94px;
+  width: 45px;
+  border-style: solid;
+  border-color: black;
+  background-color:white;
+  position: absolute;
+  left: 100px;
+  top: 240px;
+}
+.madagascarflagg { 
+  height: 50px;
+  width: 100px;
+  background-color: green;
+  position: absolute;
+  left: 150px;
+  top: 290px;
+}
+.swissflagr { 
+  height: 100px;
+  width: 150px;
+  background-color: red;
+  position: absolute;
+  left: 100px;
+  top: 350px;
+}
+.swissflagwh { 
+  height: 50px;
+  width: 20px;
+  background-color:white;
+  position: absolute;
+  left: 165px;
+  top: 375px;
+}
+.swissflagwv { 
+  height: 20px;
+  width: 50px;
+  background-color:white;
+  position: absolute;
+  left: 150px;
+  top: 390px;
+}
+.gambiaflagr {
+  height: 35px;
+  width: 150px;
+  background-color: red;
+  position: absolute;
+  left: 100px;
+  top: 460px;
+}
+.gambiaflagb {
+  height: 35px;
+  width: 150px;
+  background-color: blue;
+  position: absolute;
+  left: 100px;
+  top: 505px;
+
+}
+.gambiaflagg {
+  height: 35px;
+  width: 150px;
+  background-color: green;
+  position: absolute;
+  left: 100px;
+  top: 550px;
+
+}
+.tongaflagr { 
+  height: 100px;
+  width: 150px;
+  background-color: red;
+  position: absolute;
+  left: 100px;
+  top: 595px;
+}
+.tongaflagw { 
+  height: 60px;
+  width: 90px;
+  background-color:white;
+  position: absolute;
+  left: 100px;
+  top: 590px;
+}
+.tongaflagrh { 
+  height: 15px;
+  width: 40px;
+  background-color:red;
+  position: absolute;
+  left: 125px;
+  top: 613px;
+}
+.tongaflagrv { 
+  height: 40px;
+  width: 15px;
+  background-color:red;
+  position: absolute;
+  left: 138px;
+  top: 600px;
+}
+.japanflagr { 
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color:red;
+  position: absolute;
+  left: 155px;
+  top: 740px;
+}
+.japanflagw { 
+  height: 100px;
+  width: 150px;
+  border-style: solid;
+  border-color: black;
+  background-color:white;
+  position: absolute;
+  left: 100px;
+  top: 710px;
+}
+.greekflagb { 
+  height: 125px;
+  width: 150px;
+  background-color: blue;
+  position: absolute;
+  left: 100px;
+  top: 830px;
+}
+.greekflagwv { 
+  height: 65px;
+  width: 15px;
+  background-color: white;
+  position: absolute;
+  left: 125px;
+  top: 830px;
+}
+.greekflagwh { 
+  height: 15px;
+  width: 65px;
+  background-color: white;
+  position: absolute;
+  left: 100px;
+  top: 855px;
+}
+.greekflagws1 { 
+  height: 15px;
+  width: 85px;
+  background-color: white;
+  position: absolute;
+  left: 165px;
+  top: 840px;
+}
+.greekflagws2 { 
+  height: 15px;
+  width: 85px;
+  background-color: white;
+  position: absolute;
+  left: 165px;
+  top: 870px;
+}
+.greekflagwl1 { 
+  height: 15px;
+  width: 150px;
+  background-color: white;
+  position: absolute;
+  left: 100px;
+  top: 900px;
+}
+.greekflagwl2 { 
+  height: 15px;
+  width: 150px;
+  background-color: white;
+  position: absolute;
+  left: 100px;
+  top: 930px;
+}
+.nigerflagc { 
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color:orangered;
+  position: absolute;
+  left: 155px;
+  top: 1010px;
+}
+.nigerflagw { 
+  height: 100px;
+  width: 150px;
+  background-color:white;
+  position: absolute;
+  left: 100px;
+  top: 965px;
+}
+.nigerflago { 
+  height: 40px;
+  width: 150px;
+  background-color:orangered;
+  position: absolute;
+  left: 100px;
+  top: 965px;
+}
+.nigerflagg { 
+  height: 40px;
+  width: 150px;
+  background-color:green;
+  position: absolute;
+  left: 100px;
+  top: 1065px;
+}
+.maldivesflagr {
+  height: 100px;
+  width: 150px;
+  background-color: red;
+  position: absolute;
+  left: 100px;
+  top: 1120px;
+}
+.maldivesflagg {
+  height: 60px;
+  width: 100px;
+  background-color:green;
+  position: absolute;
+  left: 125px;
+  top: 1145px;
+}
+.maldivesflagw {
+  position: absolute;
+				width: 45px;
+        height: 45px;
+        box-shadow: -5px 0px 0px 0px white;
+        border-radius: 50px;
+        left: 165px;
+        top: 1150px;
+}
+
+
+
+

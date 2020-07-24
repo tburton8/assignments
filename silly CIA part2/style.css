@@ -1,0 +1,25 @@
+h1 {
+    color:darkgreen;
+    font-family: Georgia;
+    
+}
+h2 {
+    font-family: Georgia;
+}
+.headline {
+text-align: center;
+}
+img {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.p {
+line-height: 25px;
+}
+.p2 {
+    text-transform: uppercase;
+}
+.link:hover {
+    color: red;
+}

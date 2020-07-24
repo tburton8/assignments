@@ -1,0 +1,24 @@
+body{
+    background-image: url('https://images.pexels.com/photos/1470171/pexels-photo-1470171.jpeg?cs=srgb&dl=green-succulent-plants-on-pots-1470171.jpg&fm=jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    color:darkolivegreen;
+    font-family: 'Segoe UI',sans-serif;
+    margin-top: 50px;
+}
+h2 {
+    color:#565350;
+    font-weight: initial;
+    font-family: 'Segoe UI',sans-serif;
+}
+h3 {
+    color:darkolivegreen;
+    font-family: 'Segoe UI',sans-serif;
+    font-weight: lighter;
+}
+.different {
+    color: blueviolet;
+}

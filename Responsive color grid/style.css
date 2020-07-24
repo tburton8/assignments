@@ -1,0 +1,125 @@
+@media only screen and (max-width: 768px){
+
+.lightpnk {
+    height: 50px;
+    width: 1000px;
+    background-color: #F5C6D6;
+    border: 2px solid white;
+    }
+    .pink {
+    height: 50px;
+    width: 1000px;
+    background-color: #EE2E84;
+    border: 2px solid white;
+    }
+    .blue {
+    height: 50px;
+    width: 1000px;
+    background-color: #85CFD8;
+    border: 2px solid white;
+    }
+            
+    .green {
+    height: 50px;
+    width: 1000px;
+    background-color: #8DC63F;
+    border: 2px solid white;
+    }
+    .orange {
+    height: 50px;
+    width: 1000px;
+    background-color: #E76E34;
+    border: 2px solid white;
+    }
+}
+@media only screen and (min-width: 768px){
+
+    .lightpnk {
+        height: 100px;
+        width: 1000px;
+        background-color: #F5C6D6;
+        border: 2px solid white;
+        }
+       
+        .pink1 {
+            height: 100px;
+            width: 250px;
+            background-color: #EE2E84;
+            border: 2px solid white;
+            position: absolute;
+            left: 5px;
+            top: 112px;
+        }
+        .pink2 {
+            height: 100px;
+            width: 250px;
+            background-color: #EE2E84;
+            border: 2px solid white;
+            position: absolute;
+            left: 250px;
+            top: 112px;
+           
+        }
+        .pink3 {
+            height: 100px;
+            width: 250px;
+            background-color: #EE2E84;
+            border: 2px solid white;
+            position: absolute;
+            left: 505px;
+            top: 112px;
+           
+        }
+
+    
+        .pink4 {
+         
+            height: 100px;
+            width: 250px;
+            background-color: #EE2E84;
+            border: 2px solid white;
+            position: absolute;
+            left: 758px;
+            top: 112px;
+           
+        }
+        .blue1 {
+            height: 100px;
+            width: 500px;
+            background-color: #85CFD8;
+            border: 2px solid white;
+            position: absolute;
+            left: 5px;
+            top: 215px;
+        }
+        .blue2 {
+            height: 100px;
+            width: 500px;
+            background-color: #85CFD8;
+            border: 2px solid white;
+            position: absolute;
+            left: 508px;
+            top: 215px;
+        }
+            
+        .green {
+            height: 100px;
+            width: 700px;
+            background-color: #8DC63F;
+            border: 2px solid white;
+            position: absolute;
+            left: 5px;
+            top: 315px;
+        }
+    .orange {
+        height: 100px;
+        width: 300px;
+        background-color: #E76E34;
+        border: 2px solid white;
+        position: absolute;
+        left: 709px;
+        top: 315px;
+        }
+    }
+
+    
